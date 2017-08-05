@@ -4,6 +4,13 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+
+/**
+ * 
+ * @author Mitch
+ * 2017/08/05
+ */
+
 public class TemperatureReaders {
 	
 	public static void main(String[] args) throws IOException, InterruptedException {
